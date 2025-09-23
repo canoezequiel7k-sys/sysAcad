@@ -1,2 +1,2 @@
 # PROYECTO COLABORATIVO;  sysAcad
-integrantes por ahora; Ezequiel Cano, Santino Casado
+integrantes por ahora; Ezequiel Cano, Santino Casado, Agustin Leyes
